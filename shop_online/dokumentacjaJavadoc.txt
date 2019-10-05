@@ -1,0 +1,19 @@
+1.
+Dokumentacja JavaDoc aplikacji serwerowej znajduje siê w folderze ze œcie¿k¹ poœredni¹:
+"projekt\doc", g³ówny plik -> index.html
+
+
+2.
+Dokumentacja JsDoc aplikacji klienckiej znajduje siê w folderze ze œcie¿k¹ poœredni¹:
+"projekt\docs", g³ówny plik -> index.html
+
+link do instrukcji: -> http://usejsdoc.org/index.html
+
+Sposób przygotowania dokumentacji: 
+
+globalna instalacja:
+npm -g
+
+Po przejœciu do folderu aplikacji klienta 'klientReactjs'
+u¿ycie poni¿szej komendy wygeneruje dokumentacje dla wszystkich plików .js z folderu 'src'.
+jsdoc src -r -d docs

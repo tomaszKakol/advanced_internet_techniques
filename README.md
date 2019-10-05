@@ -9,10 +9,11 @@ https://tomasz-kakol-clientjs-zti.mybluemix.net/
 (w zależności od ustawienia parametrów konta na chmurze IBM)
 
 Główne zastosowane przeze mnie technologie, frameworki, środowiska to:
-Spring Boot
-React
-IBM Cloud i JEE
-DB2
-Gradle
+
+- Spring Boot
+- React
+- IBM Cloud i JEE
+- DB2
+- Gradle
 
 Projekt dotyczy prostej aplikacji typu sklep obsługującej zapytania zgodnie ze wzrocem REST

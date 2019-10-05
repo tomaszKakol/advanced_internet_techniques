@@ -14,3 +14,5 @@ React
 IBM Cloud i JEE
 DB2
 Gradle
+
+Projekt dotyczy prostej aplikacji typu sklep obsługującej zapytania zgodnie ze wzrocem REST
